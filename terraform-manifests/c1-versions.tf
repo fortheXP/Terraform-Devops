@@ -21,6 +21,7 @@ terraform {
   }   
 }
 
+# 1st try 
 # Provider Block
 provider "azurerm" {
  features {}          
