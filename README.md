@@ -6,3 +6,4 @@
 4. [Github SSH Connection](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/about-ssh)
 5. test
 6. again
+7. QA
